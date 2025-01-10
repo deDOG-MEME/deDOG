@@ -1,4 +1,4 @@
-<div style="background: rgba(255, 255, 255, 0.1) url('https://raw.githubusercontent.com/deDOG-MEME/deDOG/main/logo/reduced_deDOG.png') no-repeat center center; background-size: cover; padding: 20px; color: white; min-height: 100vh;">
+<div style="background: rgba(255, 255, 255, 0.1) url('[https://raw.githubusercontent.com/deDOG-MEME/deDOG/main/logo/reduced_deDOG.png]') no-repeat center center; background-size: cover; padding: 20px; color: white; min-height: 100vh;">
   
 # deDOG: A Decentralized Experiment in Effort-Based Value and Fair Distribution
 
